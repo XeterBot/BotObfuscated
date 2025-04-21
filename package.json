@@ -1,7 +1,7 @@
 {
-  "name": "prometheus-discord-bot",
+  "name": "xeter-discord-bot",
   "version": "0.2.0",
-  "description": "The Discord Bot for the Prometheus Obfuscator",
+  "description": "The Discord Bot for the Xeter Obfuscator",
   "main": "index.js",
   "scripts": {
     "build": "node esbuild.js",
